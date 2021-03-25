@@ -1,5 +1,5 @@
 {
-  "name": "confusion",
+  "name": "week4_assignment",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
@@ -9,7 +9,7 @@
     "lite": "lite-server",
     "scss": "node-sass -o css/ css/"
   },
-  "author": "",
+  "author": "Aman kumar sharma",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0",

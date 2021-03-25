@@ -9,7 +9,7 @@
     "lite": "lite-server",
     "scss": "node-sass -o css/ css/"
   },
-  "author": "",
+  "author": "Aman kumar sharma",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0",
